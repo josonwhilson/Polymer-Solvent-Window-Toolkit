@@ -65,7 +65,7 @@ python 2D_ternary_traversal.py
 
 | 3D Global Window | 2D Quantitative Slice |
 | :---: | :---: |
-| ![3D Preview](https://via.placeholder.com/400x300.png?text=3D+Prism+Volume) | ![2D Preview](https://via.placeholder.com/400x300.png?text=2D+Ternary+Plot) |
+| ![3D Preview]("/3D Homogeneous Window/img_example/Solubility Window 20-100.png") | ![2D Preview](https://via.placeholder.com/400x300.png?text=2D+Ternary+Plot) |
 | *Evolution of solubility from AD 20 to 100* | *Solvent window area and $\chi$ distribution* |
 
 ---
